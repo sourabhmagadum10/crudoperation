@@ -5,6 +5,7 @@ import Service.CategoryServi;
 import org.springframework.data.domain.Page;
 import org.springframework.web.bind.annotation.*;
 
+@RestContoller
 public class CategoryController {
     private CategoryServi categoryServi;
 //    @GetMapping
