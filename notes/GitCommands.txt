@@ -1,6 +1,0 @@
-git basic commands
-1)git clone 
-2)git status to see modifyed change exiting or not in local repo
-3)git add to add the modifyed changes file name by using filename 
-4)git retore to restore the added file to not to the commit and resore is working after add command
-5)git commmit commit the changes in remote repo
